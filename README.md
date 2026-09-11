@@ -92,25 +92,33 @@ dan evaluasi dapat berjalan sesuai dengan rancangan.
 
 ![Halaman Awal](Halaman%20Awal%20Aplikasi.jpeg)
 
-Halaman pembuka aplikasi yang menyediakan akses untuk masuk
+Halaman awal aplikasi yang menyediakan akses untuk masuk
 ke dalam media pembelajaran.
 
 ### Menu Utama Aplikasi
 
-![Menu Utama Aplikasi](Tampilan Menu Utama Aplikasi.jpeg)
+![Menu Utama Aplikasi](Tampilan%20Menu%20Utama%20Aplikasi.jpeg)
 
-Menu pembelajaran menyediakan enam pilihan materi mengenai
-rambu-rambu lalu lintas.
+Menu utama aplikasi
+
+### Tampilan Materi Pembelajaran
+![Materi Pembelajaran](Tampilan%20Materi%20Pembelajaran.jpeg)
+
+### Menu Materi
+![Menu Materi](tampilan%20materi.jpeg)
 
 ### Tampilan Soal
 
-![Tampilan Soal](Tampilan Soal.jpeg)
+![Tampilan Soal](Tampilan%20Soal.jpeg)
 
-Pengguna dapat memilih antara latihan soal dan soal evaluasi.
+Pengguna mengisi soal pilihan ganda
 
-### Latihan Soal
+### Latihan Latihan Soal
 
-![Tampilan latihan soal](Tampilan latihan soal.jpeg)
+![Tampilan latihan soal](Tampilan%20latihan%20soal.jpeg)
+
+### Tampilan Skor Latihan soal dan evaluasi
+![Tampilan Skor Latihan Soal dan Evaluasi](tampilan%20skor%20latihan%20soal%20dan%20evaluasi.jpeg)
 
 Soal disajikan dalam bentuk pilihan ganda dengan dukungan
 gambar rambu-rambu lalu lintas.
