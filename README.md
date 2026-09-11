@@ -109,7 +109,7 @@ Menu utama aplikasi
 
 ### Tampilan Soal
 
-![Tampilan latihan Soal](Tampilan%20latihan%20Soal.jpeg)
+![Tampilan latihan Soal](Tampilan%20Soal.jpeg)
 
 Pengguna mengisi soal pilihan ganda
 
