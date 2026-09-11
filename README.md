@@ -90,7 +90,7 @@ dan evaluasi dapat berjalan sesuai dengan rancangan.
 
 ### Halaman Awal Aplikasi
 
-![Halaman Awal](Halaman Awal Aplikasi.jpeg)
+![Halaman Awal](Halaman%20Awal%20Aplikasi.jpeg)
 
 Halaman pembuka aplikasi yang menyediakan akses untuk masuk
 ke dalam media pembelajaran.
