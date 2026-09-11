@@ -113,9 +113,9 @@ Menu utama aplikasi
 
 Pengguna mengisi soal pilihan ganda
 
-### Tampilan Soal
+### Tampilan latihan Soal
 
-![Tampilan soal](Tampilan%20soal.jpeg)
+![Tampilan latihan soal](Tampilan%20latihan%20soal.jpeg)
 
 ### Tampilan Skor Latihan soal dan evaluasi
 ![Tampilan Skor Latihan Soal dan Evaluasi](tampilan%20skor%20latihan%20soal%20dan%20evaluasi.jpeg)
