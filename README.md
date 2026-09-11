@@ -113,7 +113,7 @@ Menu utama aplikasi
 
 Pengguna mengisi soal pilihan ganda
 
-### Latihan Latihan Soal
+### Tampilan Latihan Soal
 
 ![Tampilan latihan soal](Tampilan%20latihan%20soal.jpeg)
 
