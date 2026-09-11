@@ -142,7 +142,8 @@ Dalam project ini saya bertanggung jawab terhadap:
 
 ## 🎓 Project Information
 
-**Nama :** Maria M Niga L Lama Dokeng
+**Nama:** Maria M Niga L Lama Dokeng
+
 **Project Type:** Skripsi / Academic Project  
 **Platform:** Android  
 **Target User:** Siswa Sekolah Dasar  
