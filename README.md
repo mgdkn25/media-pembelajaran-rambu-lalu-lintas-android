@@ -92,36 +92,40 @@ dan evaluasi dapat berjalan sesuai dengan rancangan.
 
 ![Halaman Awal](Halaman%20Awal%20Aplikasi.jpeg)
 
-Halaman awal aplikasi yang menyediakan akses untuk masuk
-ke dalam media pembelajaran.
+Menunjukkan tampilannmenuuutama aaplikasi media pembelajaran interaktif tentang rambu-rambu lalu lintas. 
 
 ### Menu Utama Aplikasi
 
 ![Menu Utama Aplikasi](Tampilan%20Menu%20Utama%20Aplikasi.jpeg)
 
-Menu utama aplikasi
+Menunjukkan tampilan menu utama aplikasi, yang teridri dari menu materi, latihan soal, video, tentang aplikasi dan panduan
 
 ### Tampilan Materi Pembelajaran
 ![Materi Pembelajaran](Tampilan%20Materi%20Pembelajaran.jpeg)
 
+Menunjukkan tampilan materi pembelajaran, yang terdiri dari pempelajaran 1 sampai dengan pembelajaran 6.
+
 ### Menu Materi
 ![Menu Materi](tampilan%20materi.jpeg)
+
+Menunjukkan tampilan materi rambu, yang berisi simbol dan arti dari simbol rambu.
 
 ### Tampilan Soal
 
 ![Tampilan latihan soal](Tampilan%20latihan%20soal.jpeg)
 
-Pengguna mengisi soal pilihan ganda
+Menunjukkan tampilan menu latihan soal, yang terdiri dari menu latihan soal dan soal evaluasi. 
 
 ### Tampilan latihan Soal
 
 ![Tampilan Soal](Tampilan%20Soal.jpeg)
 
+Menunjukkan tampilan soal pilihan ganda dari latihan soal dan soal evaluasi. Pengguna memilihMsalahMsatuMjawabannyang diManggap benar.
+
 ### Tampilan Skor Latihan soal dan evaluasi
 ![Tampilan Skor Latihan Soal dan Evaluasi](tampilan%20skor%20latihan%20soal%20dan%20evaluasi.jpeg)
 
-Soal disajikan dalam bentuk pilihan ganda dengan dukungan
-gambar rambu-rambu lalu lintas.
+Menunjukkan tampilan skor latihan soal dan soal evaluasi.
 
 ## 👨‍💻 Peran Saya
 
@@ -138,6 +142,7 @@ Dalam project ini saya bertanggung jawab terhadap:
 
 ## 🎓 Project Information
 
+**Nama :** Maria M Niga L Lama Dokeng
 **Project Type:** Skripsi / Academic Project  
 **Platform:** Android  
 **Target User:** Siswa Sekolah Dasar  
