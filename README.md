@@ -109,13 +109,13 @@ Menu utama aplikasi
 
 ### Tampilan Soal
 
-![Tampilan latihan Soal](Tampilan%20latihan%20Soal.jpeg)
+![Tampilan Soal](Tampilan%20latihan%20Soal.jpeg)
 
 Pengguna mengisi soal pilihan ganda
 
 ### Tampilan latihan Soal
 
-![Tampilan soal](Tampilan%20soal.jpeg)
+![Tampilan latihan soal](Tampilan%20soal.jpeg)
 
 ### Tampilan Skor Latihan soal dan evaluasi
 ![Tampilan Skor Latihan Soal dan Evaluasi](tampilan%20skor%20latihan%20soal%20dan%20evaluasi.jpeg)
